@@ -49,7 +49,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '705651446013',
     projectId: 'first-app-92f21',
     authDomain: 'first-app-92f21.firebaseapp.com',
-    databaseURL: 'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'first-app-92f21.appspot.com',
     measurementId: 'G-MG88QWV9WD',
   );
@@ -59,7 +60,8 @@ class DefaultFirebaseOptions {
     appId: '1:705651446013:android:f1649fb67b3c417cf1ae94',
     messagingSenderId: '705651446013',
     projectId: 'first-app-92f21',
-    databaseURL: 'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'first-app-92f21.appspot.com',
   );
 
@@ -68,7 +70,8 @@ class DefaultFirebaseOptions {
     appId: '1:705651446013:ios:646dcf8e688b3856f1ae94',
     messagingSenderId: '705651446013',
     projectId: 'first-app-92f21',
-    databaseURL: 'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'first-app-92f21.appspot.com',
     iosBundleId: 'com.example.daftarBelanja',
   );
@@ -78,7 +81,8 @@ class DefaultFirebaseOptions {
     appId: '1:705651446013:ios:d1c80c11105e703af1ae94',
     messagingSenderId: '705651446013',
     projectId: 'first-app-92f21',
-    databaseURL: 'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://first-app-92f21-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'first-app-92f21.appspot.com',
     iosBundleId: 'com.example.daftarBelanja.RunnerTests',
   );
